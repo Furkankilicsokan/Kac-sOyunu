@@ -1,0 +1,32 @@
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.Properties.Resources.resources
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.exe.config
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.exe
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.MenuForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\KaçışOyunu.exe
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\KaçışOyunu.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.BilgiForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.RekorlarForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.SeviyelerForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\bin\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\bin\Debug\Kacıs.Library.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.CopyComplete
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.exe.config
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.exe
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\bin\Debug\KaçışOyunu.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\bin\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\bin\Debug\Kacıs.Library.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.BilgiForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.MenuForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.Properties.Resources.resources
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.RekorlarForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.SeviyelerForm.resources
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\Kacıs.Desktop.csproj.CopyComplete
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\KaçışOyunu.exe
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Desktop\obj\Debug\KaçışOyunu.pdb

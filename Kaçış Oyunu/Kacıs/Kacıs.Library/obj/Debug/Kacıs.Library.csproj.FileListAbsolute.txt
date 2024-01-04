@@ -1,0 +1,12 @@
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\bin\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\bin\Debug\Kacıs.Library.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\bin\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\bin\Debug\Kacıs.Library.pdb
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.dll
+C:\Users\PC\Desktop\Kaçış Oyunu - Kopya\Kacıs\Kacıs.Library\obj\Debug\Kacıs.Library.pdb
